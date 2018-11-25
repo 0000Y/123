@@ -1,0 +1,26 @@
+{
+  "squadName" : "HOT GAMES",
+  "homeTown" : "腾讯Tencent",
+  "formed" : 2003,
+  "active" : true,
+  "members" : [
+    {
+      "name" : "英雄联盟 ",
+      "age" : 9,
+      "secretIdentity" : "League of Legends",
+      "powers" : []
+    },
+    {
+      "name" : "绝地求生",
+      "age" : 2,
+      "secretIdentity" : "PUBG",
+      "powers" : []
+    },
+    {
+      "name" : "穿越火线",
+      "age" : 10,
+      "secretIdentity" : "CF",
+      "powers" : []
+    }
+  ]
+}
