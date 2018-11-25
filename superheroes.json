@@ -8,19 +8,27 @@
       "name" : "英雄联盟 ",
       "age" : 9,
       "secretIdentity" : "League of Legends",
-      "powers" : []
+      "powers" : [
+        "疾风剑豪",
+        "影流之主"
+        "未来守护者"]
     },
     {
       "name" : "绝地求生",
       "age" : 2,
       "secretIdentity" : "PUBG",
-      "powers" : []
+      "powers" : [
+        "海岛图",
+        "沙漠图"
+        "雨林图"]
     },
     {
       "name" : "穿越火线",
       "age" : 10,
       "secretIdentity" : "CF",
-      "powers" : []
+      "powers" : [
+        "保卫者",
+        "潜伏者"]
     }
   ]
 }
